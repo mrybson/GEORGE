@@ -1,0 +1,4 @@
+~~~~~~~~~~~~~~~~~~~~Projekt George~~~~~~~~~~~~~~~~~~~~~
+1. Obs³uga stm32f4 w Visual Studio przez USB
+2. Program w C# rozpoznaj¹cy mowê i wysy³aj¹cy odpowiednie komendy to stm32f4
+3. W zale¿noœci od odebranej komendy, zapalanie diód
